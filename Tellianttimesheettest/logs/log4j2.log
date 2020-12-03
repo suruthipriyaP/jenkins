@@ -1,0 +1,15 @@
+[DEBUG] 2020-09-25 11:38:53.141 [main] log4jtest - This is a debug message
+[INFO ] 2020-09-25 11:38:53.143 [main] log4jtest - This is an info message
+[WARN ] 2020-09-25 11:38:53.143 [main] log4jtest - This is a warn message
+[ERROR] 2020-09-25 11:38:53.143 [main] log4jtest - This is an error message
+[FATAL] 2020-09-25 11:38:53.143 [main] log4jtest - This is a fatal message
+[DEBUG] 2020-09-25 11:39:23.345 [main] log4jtest - This is a debug message
+[INFO ] 2020-09-25 11:39:23.347 [main] log4jtest - This is an info message
+[WARN ] 2020-09-25 11:39:23.347 [main] log4jtest - This is a warn message
+[ERROR] 2020-09-25 11:39:23.348 [main] log4jtest - This is an error message
+[FATAL] 2020-09-25 11:39:23.348 [main] log4jtest - This is a fatal message
+[DEBUG] 2020-09-25 11:47:36.395 [main] log4jtest - This is a debug message
+[INFO ] 2020-09-25 11:47:36.397 [main] log4jtest - This is an info message
+[WARN ] 2020-09-25 11:47:36.397 [main] log4jtest - This is a warn message
+[ERROR] 2020-09-25 11:47:36.397 [main] log4jtest - This is an error message
+[FATAL] 2020-09-25 11:47:36.398 [main] log4jtest - This is a fatal message

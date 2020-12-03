@@ -1,0 +1,5 @@
+[DEBUG] 2020-09-25 11:48:37.438 [main] log4jtest - This is a debug message
+[INFO ] 2020-09-25 11:48:37.440 [main] log4jtest - This is an info message
+[WARN ] 2020-09-25 11:48:37.440 [main] log4jtest - This is a warn message
+[ERROR] 2020-09-25 11:48:37.440 [main] log4jtest - This is an error message
+[FATAL] 2020-09-25 11:48:37.441 [main] log4jtest - This is a fatal message
