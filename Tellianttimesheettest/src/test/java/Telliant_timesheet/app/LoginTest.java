@@ -1,4 +1,4 @@
- package Telliant_timesheet.app;
+package Telliant_timesheet.app;
 
 import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
@@ -68,7 +68,15 @@ public class LoginTest extends test {
 
 		timeSheetPage.clearExistingProjects();
 		timeSheetPage.addProject();
+		try {TestLinkIntegration.updateResults("DP-61",null,TestLinkAPIResults.TEST_PASSED);
+		
+		
+		}
+		catch(Exception e){
+			TestLinkIntegration.updateResults("validlogin",e.getMessage(),TestLinkAPIResults.TEST_FAILED);
+		}
+	}
 		//view.EnterTime();
 		// TimesheetPage.saveChanges();
 	}
-}
+

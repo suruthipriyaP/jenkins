@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" output="target/classes" path="src/main/java">
+	<classpathentry kind="src" output="target/classes" path="java">
 		<attributes>
 			<attribute name="optional" value="true"/>
 			<attribute name="maven.pomderived" value="true"/>
@@ -38,6 +38,6 @@
 	<classpathentry kind="lib" path="C:/Users/vicky/Downloads/testlink-api-client-2.0/testlink-api-client-20091130/lib/xmlrpc-client-3.1-sources.jar"/>
 	<classpathentry kind="lib" path="C:/Users/vicky/Downloads/testlink-api-client-2.0/testlink-api-client-20091130/lib/xmlrpc-common-3.1.jar"/>
 	<classpathentry kind="lib" path="C:/Users/vicky/Downloads/testlink-api-client-2.0/testlink-api-client-20091130/lib/xmlrpc-common-3.1-sources.jar"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-10"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
